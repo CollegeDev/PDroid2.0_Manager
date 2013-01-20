@@ -3,7 +3,7 @@
 </p>
 ## PDroid2.0 the Official Manager Application
 ### What is PDroid2.0?
-PDroid2.0 is a Manager Application for the well known PDroid2.0 Framework (recommended) or the new OpenPDroid. The OpenPDroid Framework is a fork of 'my' Framework and only ported to Android 4.1.2 with some little changings. PDroid2.0 allows blocking access for any installed application to the following data separately:
+PDroid2.0 is a Manager Application for the well known **PDroid2.0 Framework (recommended)** or the new OpenPDroid. The OpenPDroid Framework is a fork of 'my' Framework and only ported to Android 4.2.1 with some little changings. PDroid2.0 allows blocking access for any installed application to the following data separately:
 
 * Device ID (IMEI/MEID/ESN)
 * Subscriber ID (IMSI)
@@ -42,7 +42,7 @@ PDroid2.0 is a Manager Application for the well known PDroid2.0 Framework (recom
 * It is developed by the main core developer CollegeDev who knows a lot about the features PDroid2.0 supports especially the new ones, because he wrotes them
 * Only ~300Kb filesize of the application (very small)
 * Really small battery consumption -> it is not listed in the battery statistics
-* In future it will provide FULL 256bit AES encryption technology -> nobody except you can access your private data
+* In future it will provide **FULL 256bit AES encryption technology** -> nobody except you can access your private data
 * You will get support for application AND framework if something went wrong
 * NO background service needed
 * NO permission required for the app to run and that will NEVER change
@@ -52,7 +52,7 @@ PDroid2.0 is a Manager Application for the well known PDroid2.0 Framework (recom
 If you've found any Bug in PDroid2.0 you can open a new Issue here on GitHub. Please describe the bug as precise as you can, this will help me a lot. If you're a German native speaker, you can provide a Bug Report in German too. It is recommended to attach a Logcat too (best would be one with verbose filter and one with error filter).
 
 ### Feature Requests / New Ideas
-If you have any suggestion for PDroid2.0 or some good new Ideas you can just open a new 'enhancement' and I will have a look at it. It is also recommended to discuss new features inside the 'enhancements'. From time to time I will open new enhancements to give you the possibility to get involved in the creation of the features.
+If you have any suggestion for PDroid2.0 or some good new Ideas you can just open a new **'enhancement'** and I will have a look at it. It is also recommended to discuss new features inside the **'enhancement'**. From time to time I will open new enhancements to give you the possibility to get involved in the creation of the features.
 
 ### Is there any manual for this Application?
 Yes it is. I will upload it in the next few days.
@@ -62,6 +62,9 @@ You're allowed to distribute the Application but not allowed to compile it witho
 
 ### When you will push the sources?
 I will push the sources within the next few release(s) :-)
+
+### Which branch should I use?
+If you want to test the new features which are currently under development you should use the **'devel'** branch, but if you want to have a stable Application you should use the **'master'** branch.
 
 ### Disclaimer
     /*
