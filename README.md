@@ -60,6 +60,9 @@ Yes it is. I will upload it in the next few days.
 ### Can I take your source and compile or distribute it?
 You're allowed to distribute the Application but not allowed to compile it without asking for permissions. If you want to compile it, please get in touch with me.
 
+### When you will push the sources?
+I will push the sources within the next few release(s) :-)
+
 ### Disclaimer
     /*
      * Your warranty is now void.
